@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/metalexa/static/css/main.a80b630c.css",
-    "main.js": "/metalexa/static/js/main.14e82df9.js",
-    "static/js/787.6d4a7a5a.chunk.js": "/metalexa/static/js/787.6d4a7a5a.chunk.js",
+    "main.js": "/metalexa/static/js/main.1d1f05ba.js",
+    "static/js/787.5fccbbb8.chunk.js": "/metalexa/static/js/787.5fccbbb8.chunk.js",
     "index.html": "/metalexa/index.html",
     "main.a80b630c.css.map": "/metalexa/static/css/main.a80b630c.css.map",
-    "main.14e82df9.js.map": "/metalexa/static/js/main.14e82df9.js.map",
-    "787.6d4a7a5a.chunk.js.map": "/metalexa/static/js/787.6d4a7a5a.chunk.js.map"
+    "main.1d1f05ba.js.map": "/metalexa/static/js/main.1d1f05ba.js.map",
+    "787.5fccbbb8.chunk.js.map": "/metalexa/static/js/787.5fccbbb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a80b630c.css",
-    "static/js/main.14e82df9.js"
+    "static/js/main.1d1f05ba.js"
   ]
 }
